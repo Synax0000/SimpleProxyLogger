@@ -1,5 +1,4 @@
 import Modules.Config as Config
-import Modules.ProxyCheck as ProxyCheck
 import argparse
 
 import Scrapers.FreeProxyList as FreeProxyList
